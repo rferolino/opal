@@ -1,0 +1,9 @@
+PySide6<=6.5.2
+PySideSix-Frameless-Window
+PySide6-Material-Widgets
+PyQt5>=5.15.0
+PyQt5-Frameless-Window>=0.2.7
+darkdetect
+colorthief
+scipy
+pillow
